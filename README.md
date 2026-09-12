@@ -12,4 +12,4 @@
 ### 🗓️ Sept 2026 Tracking Dashboard
 Sept 7 - neetcode - https://leetcode.com/problems/contains-duplicate/ , kunal kushwaha - Introduction to Arrays & ArrayList
 
-Sept 12 - leetcode - https://leetcode.com/problems/richest-customer-wealth/
+Sept 12 - leetcode - https://leetcode.com/problems/richest-customer-wealth/ , https://leetcode.com/problems/running-sum-of-1d-array/
